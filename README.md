@@ -2,7 +2,7 @@
 
 ## Motivation & Aim
 
-The data set consists of an extensive survey on digital aspects of Czech households. One of the results was segmentation of Czech households with respect to their digital behavior. See the following link for illustration. 
+The data set consists of an extensive survey on digital aspects of Czech households. One of the results was segmentation of Czech households with respect to their digital behavior. See the following [link](https://assets.kpmg.com/content/dam/kpmg/cz/pdf/KPMG_The_Czech_Digital_Household_2018.pdf) for illustration. 
 The forthcoming segmentation approach was based on business content – the relevant questions were selected on basis of their relative business importance with respect to a specific purpose of this segmentation/clustering.      
 
 The current aim is to uncover further meanings hidden within the data by:
