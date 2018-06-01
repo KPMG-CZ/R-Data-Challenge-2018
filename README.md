@@ -14,6 +14,7 @@ The current aim is to uncover further meanings hidden within the data by:
 1. Provide segmentation of survey participants (test group "VALUES_Sample_Test")
 2. Assign participants to created segments (control group "VALUES_Sample_Control")
 3. Open your mind and find out any other interesting insights!
+
 You are free to use any external data sources along with the provided data set.
 
 ## Submission
@@ -22,4 +23,4 @@ You are free to use any external data sources along with the provided data set.
 * **Script** – original script used to analyze data, produce and visualize results
 
 
-## Submit by June 12th 23:59 to r-challenge@kpmg.cz 
+### Submit by June 12th 23:59 to r-challenge@kpmg.cz 
