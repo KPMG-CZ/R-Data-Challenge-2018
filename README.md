@@ -1,6 +1,6 @@
 # KPMG R Data Challenge 2018 - Digital aspects of Czech households
 
-# Motivation & Aim
+## Motivation & Aim
 
 The data set consists of an extensive survey on digital aspects of Czech households. One of the results was segmentation of Czech households with respect to their digital behavior. See the following link for illustration. 
 The forthcoming segmentation approach was based on business content – the relevant questions were selected on basis of their relative business importance with respect to a specific purpose of this segmentation/clustering.      
@@ -10,9 +10,7 @@ The current aim is to uncover further meanings hidden within the data by:
 * Identifying key differentiators between segments as well as in general (i.e. which questions or groups of questions have the most polarizing effect)
 * Selecting indicators, based on which can random respondent be assigned to individual clusters with calculated probability
 
-# Tasks
-
-Hence if you want to rock in this task, then:
+## If you want to rock in this task, then:
 1. Provide segmentation of survey participants (test group "VALUES_Sample_Test")
 2. Assign participants to created segments (control group "VALUES_Sample_Control")
 3. Open your mind and find out any other interesting insights!
