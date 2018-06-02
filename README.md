@@ -39,7 +39,7 @@ Cílem tohoto cvičení je navrhnout alernativní segmentační přístup, kter�
 ## Chceš-li tedy v tomto úkolu zazářit, pak:
 1. Segmentuj účastníky průzkumu v rámci testovací skupiny na listu „VALUES_Sample_Test“
 2. Zařaď účastníky v kontrolní skupině („VALUES_Sample_Control“) do vytvořených segmentů
-3. Propusť uzdu fantazii a najdi libovolné další zajímavé pohledy na věc!
+3. Propusť uzdu fantazii a najdi další zajímavé pohledy na věc!
 
 Společnou s datasetem můžeš použít libovolné externí datové zdroje.
 
