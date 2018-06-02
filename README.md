@@ -24,8 +24,7 @@ You are free to use any external data sources along with the provided data set.
 * **Script** – original script used to analyze data, produce and visualize results
 
 
-### Submit by June 12th 23:59 to r-challenge@kpmg.cz 
-In the case of any questions
+### Submit by June 12th 23:59 to r-challenge@kpmg.cz (to be used also in a need of any clarification) 
 
 # Digitální aspekty Českých domácností
 
@@ -52,4 +51,4 @@ Společnou s datasetem můžeš použít libovolné externí datové zdroje.
 * **Skript** - originální R skript použitý k analyzování dat, vyprodukování a vizualizaci výsledků
 
 
-### Řešení odevzdej do 12. Června 23:59 na adresu r-challenge@kpmg.cz
+### Řešení odevzdej do 12. Června 23:59 na adresu r-challenge@kpmg.cz (kam se také neváhej obrátit, bude-li Ti cokoliv nejasné)
