@@ -1,6 +1,6 @@
 # KPMG R Data Challenge 2018 - Digital aspects of Czech households
 
-[Česká verze](#Česká-verze)
+[Česká verze](#Digitální-aspekty-Českých-domácností)
 
 ## Motivation & Aim
 
@@ -27,7 +27,7 @@ You are free to use any external data sources along with the provided data set.
 
 ### Submit by June 12th 23:59 to r-challenge@kpmg.cz 
 
-# Česká verze
+# Digitální aspekty Českých domácností
 
 ## Motivace & Cíl
 
