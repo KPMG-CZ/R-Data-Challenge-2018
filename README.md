@@ -21,7 +21,7 @@ You are free to use any external data sources along with the provided data set.
 ## Submission
 
 * **Presentation** – 2 - 5 slides consisting of key findings and analytical approach (which options you considered and why you picked the one you are presenting) 
-* **Script** – original script used to analyze data, produce and visualize results
+* **Script** – script used for the whole analysis incl. the production and visualisation of results
 
 
 ### Submit by June 12th 23:59 to r-challenge@kpmg.cz (to be used also in a need of any clarification) 
