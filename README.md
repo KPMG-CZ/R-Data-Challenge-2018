@@ -31,13 +31,13 @@ You are free to use any external data sources along with the provided data set.
 
 ## Motivace & Cíl
 
-Data set se skládá z rozsáhlé průzkumu, zkoumajícího digitální aspekty Českých domácností. Jedním z jeho výsledků je i segmentace domácností na základě jejich „digitálního chování“ (pro detailnější informace viz následující [link](https://assets.kpmg.com/content/dam/kpmg/cz/pdf/KPMG_The_Czech_Digital_Household_2018.pdf)).
-Současný segmentační přístup je proveden businessově – otázky pro segmentování byly zvoleny na základě relativní obchodní důležitosti s přihlédnutím k specifickému účelu segmentace/clusteringu.
+Data set obsahuje odpovědi respondentů v průzkumu zkoumajícím digitální aspekty Českých domácností. Mezi výsledky je i segmentace domácností na základě „digitálního chování“ (pro detailnější informace viz následující [link](https://assets.kpmg.com/content/dam/kpmg/cz/pdf/KPMG_The_Czech_Digital_Household_2018.pdf)).
+
  
 Cílem tohoto cvičení je najít v datech další významy pomocí:
 * Vytvoření robustního segmentačního přístupu (kdy segmenty nejsou významně ovlivněny drobnými změnami ve výběru otázek použitých pro clusterování)
 * Nalezení klíčových rozdílů mezi segmenty a obecně (tedy které otázky či skupiny otázek nesou největší polarizační efekt)
-* Nalézt indikátory, na základě kterých může náhodný respondent s určitou pravděpodobností být zařazen do jednotlivých clusterů
+* Nalézení indikátorů, na základě kterých může náhodný respondent s určitou pravděpodobností být zařazen do jednotlivých clusterů
 
 ## Chceš-li tedy v tomto úkolu zazářit, pak:
 1. Segmentuj účastníky průzkumu v rámci testovací skupiny na listu „VALUES_Sample_Test“
