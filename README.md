@@ -28,7 +28,7 @@ You are free to use any external data sources along with the provided data set.
 
 # Digitální aspekty Českých domácností
 
-## Motivace & Cíl
+## Motivace a Cíl
 
 Data set obsahuje odpovědi respondentů v průzkumu zkoumajícím digitální aspekty Českých domácností. Mezi výsledky je i segmentace domácností na základě „digitálního chování“ (pro detailnější informace viz následující [link](https://assets.kpmg.com/content/dam/kpmg/cz/pdf/KPMG_The_Czech_Digital_Household_2018.pdf)), provedená z businessového pohledu.
 
