@@ -51,4 +51,4 @@ Společnou s datasetem můžeš použít libovolné externí datové zdroje.
 * **Skript** - originální R skript použitý k analyzování dat, vyprodukování a vizualizaci výsledků
 
 
-### Řešení odevzdej do 12. Června 23:59 na adresu r-challenge@kpmg.cz (kam se také neváhej obrátit, bude-li Ti cokoliv nejasné)
+### Řešení odevzdej do 12. Června 23:59 na adresu r-challenge@kpmg.cz (kam se také neváhej obrátit pro upřesnění)
