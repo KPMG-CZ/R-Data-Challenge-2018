@@ -23,6 +23,11 @@ You are free to use any external data sources along with the provided data set.
 * **Presentation** – 2 - 5 slides consisting of key findings and analytical approach (which options you considered and why you picked the one you are presenting) 
 * **Script** – script used for the whole analysis incl. the production and visualisation of results
 
+### Best solutions prices:
+* two tickets for [Why R? 2018 Conference](http://whyr2018.pl/) (Wroclaw, July 2018)
+* for students – internship/shading in KPMG
+* for professionals – cooperation with KPMG/references
+
 
 ### Submit by June 12th 23:59 to r-challenge@kpmg.cz
 
@@ -49,6 +54,13 @@ Společnou s datasetem můžeš použít libovolné externí datové zdroje.
 
 * **Prezentace** – 2-5 slajdů shrnujících podstatná zjištění a analytický postup (jaké techniky jsi uvažoval a proč jsi nakonec vybral tu prezentovanou)
 * **Skript** - originální R skript použitý k analyzování dat, vyprodukování a vizualizaci výsledků
+
+
+### Ceny pro nejlepší řešení:
+
+* dva lístky na [Why R? 2018 Conference](http://whyr2018.pl/) (Wroclaw, červenec)
+* pro studenty – stáž/stínování v KPMG
+* pro odborníky – spolupráce s KPMG/reference
 
 
 ### Řešení odevzdej do 12. Června 23:59 na adresu r-challenge@kpmg.cz
